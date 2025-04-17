@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\cworks\\Operator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08A005BD-3DDD-4F34-80E2-22978DA03DAF}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\Choice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08A005BD-3DDD-4F34-80E2-22978DA03DAF}|Operator\\Operator.vcxproj|solutionrelative:Operator\\Choice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A005BD-3DDD-4F34-80E2-22978DA03DAF}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08A005BD-3DDD-4F34-80E2-22978DA03DAF}|Operator\\Operator.vcxproj|solutionrelative:Operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A005BD-3DDD-4F34-80E2-22978DA03DAF}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\Constantex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08A005BD-3DDD-4F34-80E2-22978DA03DAF}|Operator\\Operator.vcxproj|solutionrelative:Operator\\Constantex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08A005BD-3DDD-4F34-80E2-22978DA03DAF}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\Swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{08A005BD-3DDD-4F34-80E2-22978DA03DAF}|Operator\\Operator.vcxproj|solutionrelative:Operator\\Swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +39,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Swap.c",
-              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\Swap.c",
-              "RelativeDocumentMoniker": "Operator\\Swap.c",
-              "ToolTip": "C:\\cworks\\Operator\\Operator\\Swap.c*",
-              "RelativeToolTip": "Operator\\Swap.c*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCgAAAAVAAAAAAAAAA==",
+              "Title": "Choice.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\Choice.c",
+              "RelativeDocumentMoniker": "Operator\\Choice.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\Choice.c",
+              "RelativeToolTip": "Operator\\Choice.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-17T10:31:57.752Z",
+              "WhenOpened": "2025-04-17T12:37:28.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BitOperator.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\BitOperator.c",
+              "RelativeDocumentMoniker": "Operator\\BitOperator.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\BitOperator.c",
+              "RelativeToolTip": "Operator\\BitOperator.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T12:23:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constantex.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\Constantex.c",
+              "RelativeDocumentMoniker": "Operator\\Constantex.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\Constantex.c",
+              "RelativeToolTip": "Operator\\Constantex.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T11:24:04.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Swap.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\Swap.c",
+              "RelativeDocumentMoniker": "Operator\\Swap.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\Swap.c",
+              "RelativeToolTip": "Operator\\Swap.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T10:31:57.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Operator2.c",
               "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\Operator2.c",
               "RelativeDocumentMoniker": "Operator\\Operator2.c",
@@ -47,12 +97,11 @@
               "RelativeToolTip": "Operator\\Operator2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-15T12:40:05.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T12:40:05.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Operator.c",
               "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\Operator.c",
               "RelativeDocumentMoniker": "Operator\\Operator.c",
